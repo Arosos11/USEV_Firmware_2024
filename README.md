@@ -9,6 +9,7 @@ Inputs
 Outputs
 - Motor Control function
   - 3-phase pwm sine wave
+
 -Telemetry data
 -LED Indicators
 
